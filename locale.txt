@@ -1,0 +1,17 @@
+saas-manager-
+
+dev tools
+
+saas manager web
+
+albo w network przy ladowahiu strony albo w source
+scripts
+locale
+plik z lokalami
+zparsowany do jednej liny, pretty print
+ctrf lokal sdzukany
+
+
+haj spojrze w kommit 
+to wiecej lokali
+zerknac czy beda takei same
